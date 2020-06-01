@@ -1,0 +1,2 @@
+-MPI Recursive Mergesort-	
+Usage: ./mpi_mergesort array-size
